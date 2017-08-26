@@ -2,6 +2,7 @@
 
 ##NEW COMMENT
 ##other comment
+##third comment
 
 This repository is for showing how Git and GitHub work
 
