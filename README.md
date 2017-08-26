@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 ##NEW COMMENT
+##other comment
 
 This repository is for showing how Git and GitHub work
 
